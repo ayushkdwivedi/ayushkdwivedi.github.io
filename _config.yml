@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Art of Researc
+title: The Art of Research
 email: ayush.dwivedi@research.iiit.ac.in
 description: >- # this means to ignore newlines until "baseurl:"
   The goal of all research is not objectivity, but truth. The art of research is a destination for simple, 
